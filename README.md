@@ -1,5 +1,12 @@
-<h1 align="center"> Najmeh Nayyer </h1>
-<h3 align="center">🧠 Future Neuroscience Researcher </h3>
+<div align="center">
+
+<a href="[https://praisetech.tech](https://najmehnayyer.github.io/)">
+  <img
+    width="100%"
+    alt="Najmeh Nayyer profile header"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:162032,35:8c3b1f,68:d97706,100:0f766e&height=220&section=header&text=Najmeh%2Nayyer&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Neuroscience%20Research%20Assistant%20Zimbabwe&descAlignY=58&descSize=18&descColor=f8fafc&animation=fadeIn"
+  />
+</a>
 
 ###  `Who am I?`
 
