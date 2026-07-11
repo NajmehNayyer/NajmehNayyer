@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="[https://praisetech.tech](https://najmehnayyer.github.io/)">
+<a href="[https://najmehnayyer.github.io]">
   <img
     width="100%"
     alt="Najmeh Nayyer profile header"
@@ -27,3 +27,6 @@ class NajmehNayyer(Future Researcher, Psychology Student):
             "BCoL": "Studying object representation in the fronto-temporal pathway",
             "MVP Lab": "Behavioral study of object categorization with motion cues"} 
 ```
+
+##  `More`
+Visit my [website](https://najmehnayyer.github.io/) for additional information!
