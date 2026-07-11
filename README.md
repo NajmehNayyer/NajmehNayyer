@@ -1,8 +1,6 @@
 <h1 align="center"> Najmeh Nayyer </h1>
 <h3 align="center">🧠 Future Neuroscience Researcher </h3>
 
----
-
 ###  `Who am I?`
 
 ```python
