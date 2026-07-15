@@ -7,8 +7,8 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=0:162032,35:8c3b1f,68:d97706,100:0f766e&height=220&section=header&text=Najmeh%20Nayyer&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Neuroscience%20Research%20Assistante&descAlignY=58&descSize=18&descColor=f8fafc&animation=fadeIn"
   />
 <div align="left">
+  
 ## Profile
-
 ```python
 class NajmehNayyer(Future Researcher, Psychology Student):
     def __init__(self):
