@@ -24,8 +24,8 @@ class NajmehNayyer(Future Researcher, Psychology Student):
 
     def experience(self):
         return {
-            "BCoL": "Studying object representation in the fronto-temporal pathway",
-            "MVP Lab": "Behavioral study of object categorization with motion cues"} 
+            "BCoL, IPM, Iran": "Studying object representation in the fronto-temporal pathway",
+            "MVP Lab, University of Delaware, USA": "Behavioral study of object categorization with motion cues"} 
 ```
 
 ##  `More`
