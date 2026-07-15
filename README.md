@@ -9,7 +9,7 @@
 </a>
 <div align="left">
   
-##  `Profile`
+## Profile
 
 ```python
 class NajmehNayyer(Future Researcher, Psychology Student):
@@ -28,5 +28,5 @@ class NajmehNayyer(Future Researcher, Psychology Student):
             "MVP Lab, University of Delaware, USA": "Behavioral study of object categorization with motion cues"} 
 ```
 
-##  `More`
+## More
 Visit my [website](https://najmehnayyer.github.io/) for additional information!
