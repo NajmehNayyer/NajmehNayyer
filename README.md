@@ -9,7 +9,7 @@
 </a>
 <div align="left">
   
-##  `Who am I?`
+##  `Profile`
 
 ```python
 class NajmehNayyer(Future Researcher, Psychology Student):
